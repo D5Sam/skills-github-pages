@@ -1,6 +1,6 @@
 title: "D5Sam | 个人技术主页"
-description: "机械结构设计、智能机器人与人工智能工程实践"
+description: "机械设计、机器人与人工智能技术作品集"
 url: "https://d5sam.github.io"
 baseurl: "/skills-github-pages"
+
 markdown: kramdown
-permalink: /:categories/:title/
