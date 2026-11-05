@@ -1,11 +1,9 @@
-# 网站主题
 theme: minima
 
-# 网站标题
-title: "D5Sam 的个人博客"
+title: "D5Sam | 个人技术主页"
 
-# 网站描述
-description: "在这里记录我的学习、项目与生活"
+description: "专注机械设计、智能机器人、人工智能与工程创新"
 
-# 作者名称
 author: "D5Sam"
+
+show_excerpts: true
