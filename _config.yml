@@ -1,9 +1,6 @@
-theme: minima
-
 title: "D5Sam | 个人技术主页"
-
-description: "专注机械设计、智能机器人、人工智能与工程创新"
-
-author: "D5Sam"
-
-show_excerpts: true
+description: "机械结构设计、智能机器人与人工智能工程实践"
+url: "https://d5sam.github.io"
+baseurl: "/skills-github-pages"
+markdown: kramdown
+permalink: /:categories/:title/
